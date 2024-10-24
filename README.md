@@ -1,4 +1,3 @@
-```markdown
 # Jeevan Voice Assistant
 
 Jeevan is a desktop voice assistant built in Python that can perform various tasks through voice commands. It utilizes several libraries, including speech recognition, text-to-speech, and Dialogflow for conversational AI.
