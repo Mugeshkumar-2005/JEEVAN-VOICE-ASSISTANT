@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your Jeevan Voice Assistant project:
-
 ```markdown
 # Jeevan Voice Assistant
 
