@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jeevanassistant",
+  "private_key_id": "be7df79e0996f335518e999675b20734c7819724",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQChWK22j2zfyxhi\n5UGxkNt3J9rjKm14vAs+3Pnlp3TFRjjVAQ72yEp5APQXc0aRZxKi1qIK2M+ZXtCL\nX9ckFnhnd4GsFOVFwerTzx1EzuBy+JIkOy3lPrmICI6jpr27Ma9O2KE8PL9G9l6s\nBgNKCyz8KmWmERqyz/EZv3gOFLCgNJEbX5vCSklPrbtgMJTPMzAPYSujnUtNlgZH\nhPoBSDqMcTCqzSx2SpW8sxB+yz9Pb2tJ+Dml1nrZBs4hT1nsnS2lDFXlXmh5K+Gl\nP5FtUC/X3I5pzbzlK6CPIdAbbksNgjelbmFo3Wf08jsiCLrWDtKtGhyO3Jr9EaIy\n8BxUOBfbAgMBAAECggEANcbcU2pXg/np3WCDNl9NPthaVPfZt/GZH/FAG4LmYTBI\nFfq91ZQpek5OjRhfb2w24m5+YPYlr31SLfoaN42DwRysbEIkrsz063bvTvVTCw79\nirTs1alD5mrPvA0B1Qg44aNDjlPC/zBzmouAgifabQvmiGTQDMRRHF9ccPkFa8fB\n+46JdkuSALeF8l2UuLuULgADSvHD/iDoL/AsFHNrFF3VwrniB1/dE98+Xm0K95rD\nocFbMtNGkL4+wxMU6jlfIQwu/iwc+JJMvbhnO3SpLTje12yxBe0IvdM64UR2737d\nYWkgBpj/pia5pO71yk5P42h7WbY17IfHEhh4y5ZPiQKBgQDShChRqYi0NMkVgVAX\naHX2q/2G6NzOAb6s2kc9WLpShjuveRrlHNwkkBrvThrKjig0DzlaPrAbPefqy2nj\naZ1TGGSl2FYYCus3isp6wL86oZa65/f3XdUQ0Fbk6f89KbLafb88RnTewH2iQI35\ngq3HWVhjd4HqMMO+DFokPHQ+cwKBgQDENOSeQ5FnrQ41xc1eOqDgCrupPfoiOTO/\n9uidxoWOQO0FwVxvPYQqSN1F8/hqnx5JpBUr5T+o+iP/bgpzVoOJ0am7eTXR+ntd\nbT/vLKQHuYWBLy5lluy5eBx8VI9GeSUr3syP9Qj86X3dMXipHA+Mfl8HMfOULPdc\n/Q/zCnq++QKBgQC5MdYecRx4G+/CYW5KCXWtOYThiD2nZVWOzr/ZMhNHwhsDtXB5\nmjf4WmW3nGhpRUIM+k+kGn3mmUFLBwPyMdlbXpw8YeLrZ7+hrxGNh78zHzBw4Nz9\n2qg0EHRBEbGe5u4W1ITFy93IkGJ1uICtvc6PDwR5DItXsOqiaE9sjVpeDQKBgQCp\nfuPskIRBIu9+pnTGLTGiucLp7l9yRyYcdEj5W3EutYnMigC3HFZbTPzSHHOCcBjz\nFusvM2iuKgEE/OPMRXV2jofpK0nCLnd5+xHbJR5CihL5yW90VVAE3O0GvunSwH7L\nCjp/NffgvDh95+nLdTE9dkHTbmR0oe/DBd5MX8YvyQKBgQCXN4DYqVVUIZr/NLco\nn2AnPf8GuskRT8JI6WAZMIKPSVoi2isllL65G0Qikc8pkG7d8270XtFwNjdlmdGi\nBhHstIz+0It4lbZH73D4i6Zeg+NfMn6uIumS4T/hstDKNJwiTOGGSiLcCF8uGGPi\nOf3Zw7G4NySOdGqqc6HoXWjZwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-access@jeevanassistant.iam.gserviceaccount.com",
+  "client_id": "100138050338070657672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-access%40jeevanassistant.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
